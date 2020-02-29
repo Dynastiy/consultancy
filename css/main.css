@@ -529,13 +529,13 @@ button:focus {
   -moz-transition: all .8s ease;
   -webkit-transition: all .8s ease;
   transition: all .8s ease;
-background-color:#fff; }
+background-color:#636cee; }
   #services .services-item:hover {
     border: 1px solid #fff;
     box-shadow: 0px 0px 25px 0px rgba(95, 95, 95, 0.24);
     -moz-transition: all .4s ease;
     -webkit-transition: all .4s ease;
-    background-color: #b7bcfc;
+    background-color: #636cee;
     color: #fff !important;
     transition: all .4s ease; }
   #services .services-item .icon {
@@ -559,12 +559,12 @@ background-color:#fff; }
   #services .services-item h4 {
     font-size: 20px;
     font-weight: 600;
-    color: #151948;
+    color: #fff;
     margin-bottom: 15px; }
   #services .services-item p {
     font-size: 16px;
     margin-bottom: 10px;
-    color: #636cee; }
+    color: #fff; }
 
 /* ==========================================================================
    business-plan Section 
@@ -1405,7 +1405,7 @@ background-color:#fff; }
     padding-top: 30px;
     padding-bottom: 30px; }
     #footer-Content .copyright p {
-      color: #636cee;
+      color: #fff;
       font-size: 18px; }
     #footer-Content .copyright a {
       color: #ddd; }
@@ -1468,7 +1468,8 @@ background-color:#fff; }
 
     .btnZ {
       background: #636cee;
-      color: #000;
+      color: #fff;
+      border-radius: 2rem !important;
       font-size: 1rem;
       font-weight: bold;
     }
