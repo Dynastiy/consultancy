@@ -1391,7 +1391,7 @@ background-color:#636cee; }
    Footer section
    ========================================================================== */
 #footer-Content {
-  padding-top: 130px;
+  padding-top: 40px;
   background: #242424; }
   #footer-Content .footer-logo img {
     padding-top: 70px; }
@@ -1469,7 +1469,7 @@ background-color:#636cee; }
     .btnZ {
       background: #636cee;
       color: #fff;
-      border-radius: 2rem !important;
+      border-radius: 4rem !important;
       font-size: 1rem;
       font-weight: bold;
     }
