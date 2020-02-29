@@ -47,7 +47,8 @@
   #business-plan {
     padding-bottom: 80px; }
   .feature-info {
-    width: 60%; }
+    /* width: 60%;  */
+  }
   #features .feature-item {
     padding: 15px; }
   #features .feature-item h4 {
@@ -184,7 +185,7 @@
     line-height: 35px;
     margin-bottom: 10px; }
   .hero-area .contents {
-    padding: 200px 0 50px; }
+    padding: 30px 0 50px; }
   .hero-area .contents p {
     color: #242424;
     font-size: 14px;
@@ -400,9 +401,11 @@
   .section {
     padding: 100px 0px; }
   .feature-info {
-    width: 80%; }
+    /* width: 80%;  */
+  }
   .feature-info {
-    width: 68%; }
+    /* width: 68%;  */
+  }
   #team .single-team .team-social-icons {
     bottom: 27%; }
   #blog .blog-item-wrapper .blog-item-text {
